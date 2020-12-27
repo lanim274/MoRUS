@@ -1,0 +1,4 @@
+pid,author,location,label,_date,order,layout,collection,thumbnail,full
+obj1,marlis_momber,el_jardin_de_parioso,early_photo_of_el_garden,1977,1,qatar_item,morus_collection,img/derivatives/simple/obj1/thumbnail.jpg,img/derivatives/simple/obj1/fullwidth.jpg
+obj2,morus_contributor,morus,holiday_market,2020,2,qatar_item,morus_collection,img/derivatives/simple/obj2/thumbnail.jpg,img/derivatives/simple/obj2/fullwidth.jpg
+obj0,morus_contributor,c-squat,picture_of_morus_from_facebook,2017,0,qatar_item,morus_collection,"",""
